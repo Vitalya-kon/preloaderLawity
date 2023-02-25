@@ -83,7 +83,7 @@
   }
   #loader:after {
     border: 3px solid transparent;
-    border-top-color: ##990a97;
+    border-top-color: #990a97;
     border-radius: 50%;
     content: "";
     position: absolute;
