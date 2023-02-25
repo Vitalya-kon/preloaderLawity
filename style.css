@@ -14,7 +14,7 @@
   .img__logo{
     position: absolute;
     top: 46.5%;
-    left: %;
+    left: 48.6%;
   }
   .img__logo img{
     max-width: 100%;
@@ -24,7 +24,7 @@
     .img__logo{
         position: absolute;
         top: 48.5%;
-        left: 48.6%;
+        left: 48.9%;
       }
   }
   @media (max-width:821px) {
