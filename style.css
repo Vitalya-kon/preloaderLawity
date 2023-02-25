@@ -13,8 +13,8 @@
   }
   .img__logo{
     position: absolute;
-    top: 46.8%;
-    left: 48.6%;
+    top: 48%;
+    left: 48%;
   }
   .img__logo img{
     max-width: 100%;
@@ -56,7 +56,7 @@
     margin: -75px 0 0 -75px;
     width: 150px;
     height: 150px;
-    position: relative;
+    position: absolute;
     top: 50%;
     left: 50%;
     -webkit-animation: spin 2s linear infinite;
@@ -67,7 +67,7 @@
   }
   #loader:before {
     border: 3px solid transparent;
-    border-top-color: #e74c3c;
+    border-top-color: #da357c;
     border-radius: 50%;
     content: "";
     position: absolute;
