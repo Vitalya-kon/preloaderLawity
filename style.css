@@ -13,7 +13,7 @@
   }
   .img__logo{
     position: absolute;
-    top: 48%;
+    top: 47.4%;
     left: 48%;
   }
   .img__logo img{
@@ -67,7 +67,7 @@
   }
   #loader:before {
     border: 3px solid transparent;
-    border-top-color: #da357c;
+    border-top-color: #ed79ab;
     border-radius: 50%;
     content: "";
     position: absolute;
@@ -83,7 +83,7 @@
   }
   #loader:after {
     border: 3px solid transparent;
-    border-top-color: #990a97;
+    border-top-color: #c84dc6;
     border-radius: 50%;
     content: "";
     position: absolute;
