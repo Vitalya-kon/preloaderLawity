@@ -50,7 +50,7 @@
   }
   #loader {
     border: 3px solid transparent;
-    border-top-color: #3498db;
+    border-top-color: ##4089FA;
     border-radius: 50%;
     display: block;
     margin: -75px 0 0 -75px;
@@ -67,7 +67,7 @@
   }
   #loader:before {
     border: 3px solid transparent;
-    border-top-color: #ed79ab;
+    border-top-color: #AF39F1;
     border-radius: 50%;
     content: "";
     position: absolute;
@@ -83,7 +83,7 @@
   }
   #loader:after {
     border: 3px solid transparent;
-    border-top-color: #c84dc6;
+    border-top-color: #805BF4;
     border-radius: 50%;
     content: "";
     position: absolute;
